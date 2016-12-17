@@ -4,14 +4,14 @@ $packages = array();
 
 $packages[] = array(
     'name' => 'A$0therys Modpack 1.10.2',
-    'version' => '4.0',
+    'version' => '4.1',
     'priority' => 0,
     'location' => 'a-therys-modpack-1.10.2.json',
 );
 
 $packages[] = array(
     'name' => 'A$0therys Modpack 1.11',
-    'version' => '4.0',
+    'version' => '4.1',
     'priority' => 0,
     'location' => 'a-therys-modpack-1.11.json',
 );
