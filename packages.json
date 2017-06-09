@@ -4,15 +4,22 @@
     {
       "title" : null,
       "name" : "A'therys Modpack 1.10.2",
-      "version" : "4.3",
+      "version" : "4.4",
       "location" : "a-therys-modpack-1.10.2.json",
       "priority" : 0
     },
     {
       "title" : null,
       "name" : "A'therys Modpack 1.11",
-      "version" : "4.3",
+      "version" : "4.4",
       "location" : "a-therys-modpack-1.11.json",
+      "priority" : 0
+    },
+    {
+      "title" : null,
+      "name" : "A'therys Modpack 1.11.2",
+      "version" : "1.0",
+      "location" : "a-therys-modpack-1.11.2.json",
       "priority" : 0
     }
   ]
